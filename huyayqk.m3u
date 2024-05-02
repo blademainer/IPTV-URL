@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/f2/cd86738e1969e2666089534b480c0a_180_135.jpg?1677066375" group-title="dota2", maybe
+https://www.goodiptv.club/huya/211888
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/f2/cd86738e1969e2666089534b480c0a_180_135.jpg?1677066375" group-title="dota2", chalice
+https://www.goodiptv.club/huya/883235
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
 https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ae/c1d9d5bd965f0443396e4e00392765_180_135.jpg?1554088080" group-title="一起看", 虎牙观影团
@@ -1501,3 +1505,5 @@ https://www.goodiptv.club/huya/28723330
 https://www.goodiptv.club/huya/28776423
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/f2/cd86738e1969e2666089534b480c0a_180_135.jpg?1677066375" group-title="原创", 陆小凤【蓝光】
 https://www.goodiptv.club/huya/28218916
+
+
